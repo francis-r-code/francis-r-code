@@ -10,4 +10,4 @@ And much more as I learn! Feel free to connect with me on my [LinkedIn](https://
 
 # My Projects
 
-1. [50 Python Projects](https://github.com/francis-r-code/50-Python-Projects) (October 2026 - Present): A mega project where I aim to complete at least one small Python project a week until I complete 50 projects in order to grow my Python skills. (In Progress: 4/50 Completed)
+1. [50 Python Projects](https://github.com/francis-r-code/50-Python-Projects) (October 2026 - Present): A mega project where I aim to complete at least one small Python project a week until I complete 50 projects in order to grow my Python skills. (In Progress: 5/50 Completed)
