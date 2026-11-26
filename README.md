@@ -4,7 +4,7 @@ I am a beginner Python programmer and aspiring AI/ML engineer. I aim to become s
 * **Tools:** Git, GitHub, Visual Studio Code, PyCharm
 * **Aspects:** Mathematics, machine learning, handling data
 
-And much more as I learn! Feel free to connect with me on my [LinkedIn](https://www.linkedin.com/in/francis-r-9b6256445/) as well!
+And much more as I learn! Feel free to connect with me on my [LinkedIn](https://www.linkedin.com/in/francis-repato/) as well!
 
 [![Francis' GitHub stats](https://github-stats-extended.vercel.app/api?username=francis-r-code&show_icons=true&theme=transparent)](https://github.com/stats-organization/github-stats-extended)
 
